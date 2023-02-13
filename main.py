@@ -5,7 +5,7 @@ main()
 
 try:
   
-  city_zip = input("Please enter the zip code or city for where you want to see the weather: ")
+  city_zip = input("Please put in the zip code or city for where you want to see the weather: ")
 
 except:
     zip = int()
